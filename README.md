@@ -31,9 +31,10 @@ ACCOUNT_PASSWORD
 4. 2FA supported! If you use 2FA, generate application password and set its value to ACCOUNT_PASSWORD
 5. You must use modern OS that supports TLS 1.2. TLS 1.1 and below is not supported anymore by the corresponding Exchange servers
 *****************************************************************************
-6. Use this program on your own risk. 
-It may contain bugs that can cause data loss, email loss, contacts loss, Microsoft/hotmail.com/outlook.com and any other accont suspention, account deletion, permamnent ban by Microsoft and other unexpected consequences.
-USE THIS PROGRAM ON YOUR OWN RISK!!!
+6. Use this program on your own risk. It may contain bugs that can cause data loss, email loss, contacts loss,
+   Microsoft/hotmail.com/outlook.com and any other account suspension, account deletion, 
+   permanent ban by Microsoft and other unexpected consequences. 
+   USE THIS PROGRAM ON YOUR OWN RISK!!!
 *****************************************************************************
 7. This program may not work if your account registered using non-Microsoft email address. Add Microsoft email address *@outlook.com) to your account, make it Default Alias and use this email with this program.
 8. Run this program as
