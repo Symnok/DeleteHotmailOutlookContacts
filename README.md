@@ -42,3 +42,8 @@ ACCOUNT_PASSWORD
    python3 deleteHotmailOutlookContacts.py
 9. On UI https://outlook.live.com/people/0/?actSwt=true turn ON New Contacts option. The program will work without this option too but you will not see if some contacts are stuck and not deleted
 10. You may need to run this program few times before all contacts are deleted. Wait 3-5 mins before second and additional runs. You may need to remove a few remaining contacts manually.
+11. Use following resources to learn how modify this program (for example, to add OAUTH2 support):
+
+https://ecederstrand.github.io/exchangelib/#folders
+
+https://ecederstrand.github.io/exchangelib/exchangelib/#exchangelib.Account.contacts
