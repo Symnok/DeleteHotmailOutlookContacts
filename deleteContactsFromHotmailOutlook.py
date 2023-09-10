@@ -139,7 +139,7 @@ def main():
     """
 
     """
-    The following section deleted collected email addresses that collected from incoming mail.
+    The following section deletes collected email addresses that collected from incoming mail.
     You can comment it if you do not want to purge these addresses
     """
     all_folders = account.contacts.glob('**/*') # Do it again because folder structure after previous deletions could change
