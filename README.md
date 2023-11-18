@@ -35,6 +35,8 @@ ACCOUNT_PASSWORD
    Microsoft/hotmail.com/outlook.com and any other account suspension, account deletion, 
    permanent ban by Microsoft and other unexpected consequences. 
    USE THIS PROGRAM ON YOUR OWN RISK!!!
+
+6a. BACKUP YOUR CONTACTS BEFORE YOU RUN THIS PROGRAM! DO NOT RUN IT WITHOUT BACKUP!
 *****************************************************************************
 7. This program may not work if your account registered using non-Microsoft email address. Add Microsoft email address *@outlook.com) to your account, make it Default Alias and use this email with this program.
 8. Run this program as
